@@ -1,9 +1,0 @@
-{
-    "name": "bukadete/bukadete",
-    "description": "A description of my project",
-    "type": "project",
-    "require": {
-        "php": ">=5.5.9"
-    },
-    "require-dev": {}
-}
